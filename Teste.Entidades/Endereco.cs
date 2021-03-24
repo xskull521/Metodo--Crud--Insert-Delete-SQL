@@ -6,6 +6,8 @@ namespace Teste.Entidades
 {
     public class Endereco
     {
+        public int IdEndereco { get; set; }
+
         public string Rua { get; set; }
 
         public int Numero { get; set; }

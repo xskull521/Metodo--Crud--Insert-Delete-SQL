@@ -1,8 +1,12 @@
 {
   "ExpandedNodes": [
     "",
+    "\\Teste.DAO",
+    "\\Teste.DAO\\bin",
+    "\\Teste.DAO\\bin\\Debug",
+    "\\Teste.DAO\\bin\\Debug\\netcoreapp3.1",
     "\\Teste.Entidades"
   ],
-  "SelectedNode": "\\WebApplication3.sln",
+  "SelectedNode": "\\Teste.DAO\\EnderecoDAO.cs",
   "PreviewInSolutionExplorer": false
 }

@@ -39,15 +39,19 @@ namespace WebApplication3.Controllers
         }
 
         // PUT api/<EnderecoController>/5
-        [HttpPut("{id}")]
-        public void Put(int id, [FromBody] string value)
+        [HttpPut]
+        public void Put(Endereco endereco)
         {
+            var repository = new EnderecoDAO();
+            repository.UpdateData(endereco);
         }
 
         // DELETE api/<EnderecoController>/5
         [HttpDelete("{id}")]
         public void Delete(int id)
         {
+            var repository = new EnderecoDAO();
+            repository.DeleteData(id);
         }
     }
 }
