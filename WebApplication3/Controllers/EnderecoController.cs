@@ -31,8 +31,11 @@ namespace WebApplication3.Controllers
 
         // POST api/<EnderecoController>
         [HttpPost]
-        public void Post([FromBody] string value)
+        public void Post(string Rua, int Numero, string Complemento)
         {
+
+            var repository = new EnderecoDAO();
+             repository.InsertData(Rua, Numero, Complemento );
         }
 
         // PUT api/<EnderecoController>/5

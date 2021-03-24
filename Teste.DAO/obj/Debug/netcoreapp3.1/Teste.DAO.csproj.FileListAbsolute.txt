@@ -10,3 +10,15 @@ C:\Users\robson.costa\source\repos\WebApplication3\Teste.DAO\obj\Debug\netcoreap
 C:\Users\robson.costa\source\repos\WebApplication3\Teste.DAO\obj\Debug\netcoreapp3.1\Teste.DAO.csproj.CopyComplete
 C:\Users\robson.costa\source\repos\WebApplication3\Teste.DAO\obj\Debug\netcoreapp3.1\Teste.DAO.dll
 C:\Users\robson.costa\source\repos\WebApplication3\Teste.DAO\obj\Debug\netcoreapp3.1\Teste.DAO.pdb
+C:\Users\Higor Anjps\source\repos\Crud No Sql\Teste.DAO\obj\Debug\netcoreapp3.1\Teste.DAO.csprojAssemblyReference.cache
+C:\Users\Higor Anjps\source\repos\Crud No Sql\Teste.DAO\obj\Debug\netcoreapp3.1\Teste.DAO.AssemblyInfoInputs.cache
+C:\Users\Higor Anjps\source\repos\Crud No Sql\Teste.DAO\obj\Debug\netcoreapp3.1\Teste.DAO.AssemblyInfo.cs
+C:\Users\Higor Anjps\source\repos\Crud No Sql\Teste.DAO\obj\Debug\netcoreapp3.1\Teste.DAO.csproj.CoreCompileInputs.cache
+C:\Users\Higor Anjps\source\repos\Crud No Sql\Teste.DAO\obj\Debug\netcoreapp3.1\Teste.DAO.dll
+C:\Users\Higor Anjps\source\repos\Crud No Sql\Teste.DAO\obj\Debug\netcoreapp3.1\Teste.DAO.pdb
+C:\Users\Higor Anjps\source\repos\Crud No Sql\Teste.DAO\bin\Debug\netcoreapp3.1\Teste.DAO.deps.json
+C:\Users\Higor Anjps\source\repos\Crud No Sql\Teste.DAO\bin\Debug\netcoreapp3.1\Teste.DAO.dll
+C:\Users\Higor Anjps\source\repos\Crud No Sql\Teste.DAO\bin\Debug\netcoreapp3.1\Teste.DAO.pdb
+C:\Users\Higor Anjps\source\repos\Crud No Sql\Teste.DAO\bin\Debug\netcoreapp3.1\Teste.Entidades.dll
+C:\Users\Higor Anjps\source\repos\Crud No Sql\Teste.DAO\bin\Debug\netcoreapp3.1\Teste.Entidades.pdb
+C:\Users\Higor Anjps\source\repos\Crud No Sql\Teste.DAO\obj\Debug\netcoreapp3.1\Teste.DAO.csproj.CopyComplete
