@@ -1,0 +1,12 @@
+C:\Users\robson.costa\source\repos\WebApplication3\Teste.DAO\bin\Debug\netcoreapp3.1\Teste.DAO.deps.json
+C:\Users\robson.costa\source\repos\WebApplication3\Teste.DAO\bin\Debug\netcoreapp3.1\Teste.DAO.dll
+C:\Users\robson.costa\source\repos\WebApplication3\Teste.DAO\bin\Debug\netcoreapp3.1\Teste.DAO.pdb
+C:\Users\robson.costa\source\repos\WebApplication3\Teste.DAO\bin\Debug\netcoreapp3.1\Teste.Entidades.dll
+C:\Users\robson.costa\source\repos\WebApplication3\Teste.DAO\bin\Debug\netcoreapp3.1\Teste.Entidades.pdb
+C:\Users\robson.costa\source\repos\WebApplication3\Teste.DAO\obj\Debug\netcoreapp3.1\Teste.DAO.csprojAssemblyReference.cache
+C:\Users\robson.costa\source\repos\WebApplication3\Teste.DAO\obj\Debug\netcoreapp3.1\Teste.DAO.AssemblyInfoInputs.cache
+C:\Users\robson.costa\source\repos\WebApplication3\Teste.DAO\obj\Debug\netcoreapp3.1\Teste.DAO.AssemblyInfo.cs
+C:\Users\robson.costa\source\repos\WebApplication3\Teste.DAO\obj\Debug\netcoreapp3.1\Teste.DAO.csproj.CoreCompileInputs.cache
+C:\Users\robson.costa\source\repos\WebApplication3\Teste.DAO\obj\Debug\netcoreapp3.1\Teste.DAO.csproj.CopyComplete
+C:\Users\robson.costa\source\repos\WebApplication3\Teste.DAO\obj\Debug\netcoreapp3.1\Teste.DAO.dll
+C:\Users\robson.costa\source\repos\WebApplication3\Teste.DAO\obj\Debug\netcoreapp3.1\Teste.DAO.pdb
