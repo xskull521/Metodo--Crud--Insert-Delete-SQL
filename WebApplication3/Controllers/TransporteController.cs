@@ -31,8 +31,11 @@ namespace WebApplication3.Controllers
 
         // POST api/<TransporteController>
         [HttpPost]
-        public void Post([FromBody] string value)
+        public void Post(string Tipo_Veiculo, int Ano)
         {
+
+            var repository = new TransporteDAO();
+            repository.InsertDataTransporte(Tipo_Veiculo, Ano);
         }
 
         // PUT api/<TransporteController>/5
@@ -45,6 +48,8 @@ namespace WebApplication3.Controllers
         [HttpDelete("{id}")]
         public void Delete(int id)
         {
+            var repository = new TransporteDAO();
+            repository.DeleteData(id);
         }
     }
 }

@@ -31,20 +31,27 @@ namespace WebApplication3.Controllers
 
         // POST api/<PessoaController>
         [HttpPost]
-        public void Post([FromBody] string value)
+        public void Post(string nome, int idade)
         {
+
+            var repository = new PessoaDAO();
+            repository.InsertDataPessoa(nome, idade);
         }
 
         // PUT api/<PessoaController>/5
-        [HttpPut("{id}")]
-        public void Put(int id, [FromBody] string value)
+        [HttpPut]
+        public void Put(Pessoa pessoa)
         {
+            var repository = new PessoaDAO();
+            repository.UpdateDataPessoa(pessoa);
         }
 
         // DELETE api/<PessoaController>/5
         [HttpDelete("{id}")]
         public void Delete(int id)
         {
+            var repository = new PessoaDAO();
+            repository.DeleteDataPessoa(id);
         }
     }
 }

@@ -15,3 +15,4 @@ C:\Users\Higor Anjps\source\repos\Crud No Sql\Teste.Entidades\obj\Debug\netcorea
 C:\Users\Higor Anjps\source\repos\Crud No Sql\Teste.Entidades\obj\Debug\netcoreapp3.1\Teste.Entidades.csproj.CoreCompileInputs.cache
 C:\Users\Higor Anjps\source\repos\Crud No Sql\Teste.Entidades\obj\Debug\netcoreapp3.1\Teste.Entidades.dll
 C:\Users\Higor Anjps\source\repos\Crud No Sql\Teste.Entidades\obj\Debug\netcoreapp3.1\Teste.Entidades.pdb
+C:\Users\Higor Anjps\source\repos\Crud No Sql\Teste.Entidades\obj\Debug\netcoreapp3.1\Teste.Entidades.csprojAssemblyReference.cache

@@ -60,8 +60,6 @@ namespace Teste.DAO
             }
         }
 
-
-
         public void InsertData(string Rua, int Numero, string Complemento)
         {
 
